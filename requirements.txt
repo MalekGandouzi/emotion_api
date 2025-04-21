@@ -1,5 +1,7 @@
 flask
-numpy
-librosa
 tensorflow
-keras
+numpy
+scikit-learn
+librosa
+soundfile
+gunicorn
